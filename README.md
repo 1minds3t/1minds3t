@@ -1,16 +1,40 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/1minds3t/omnipkg">
+    <img src="https://raw.githubusercontent.com/1minds3t/omnipkg/main/.github/logo.svg" alt="omnipkg Logo" width="100">
+  </a>
+</p>
 
-<!--
-**1minds3t/1minds3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">1minds3t</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Building Universal Runtimes for AI and Automation.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I build systems that solve problems others consider impossible. My primary focus is **[omnipkg](https://github.com/1minds3t/omnipkg)**, a Universal Compatibility Engine designed to eliminate dependency and environment conflicts for any programming language. It is the foundational runtime for a new generation of self-healing, multi-dimensional AI and automation workflows.
+
+My philosophy is that the future of software isn't just about writing code, but about creating systems that can **understand, manage, and heal themselves.**
+
+---
+
+### **My GitHub Statistics**
+
+<!-- These images are generated and updated daily by a custom GitHub Action -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1minds3t/github_stats/master/generated/overview.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1minds3t/github_stats/master/generated/overview.svg#gh-light-mode-only">
+    <img alt="1minds3t's GitHub Stats" src="https://raw.githubusercontent.com/1minds3t/github_stats/master/generated/overview.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1minds3t/github_stats/master/generated/languages.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1minds3t/github_stats/master/generated/languages.svg#gh-light-mode-only">
+    <img alt="1minds3t's Language Stats" src="https://raw.githubusercontent.com/1minds3t/github_stats/master/generated/languages.svg">
+  </picture>
+</p>
+
+---
+
+-   🐍 **PyPI:** [pypi.org/project/omnipkg/](https://pypi.org/project/omnipkg/)
+-   📫 **Contact:** 1minds3t@proton.me
