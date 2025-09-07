@@ -1,24 +1,25 @@
 <p align="center">
-  <a href="https://github.com/1minds3t/omnipkg">
-    <img src="https://raw.githubusercontent.com/1minds3t/omnipkg/main/.github/logo.svg" alt="omnipkg Logo" width="100">
-  </a>
+  <img src="https://raw.githubusercontent.com/1minds3t/omnipkg/main/.github/logo.svg" alt="omnipkg Logo" width="100">
 </p>
-
 <h1 align="center">1minds3t</h1>
 
 <p align="center">
-  <strong>Building Universal Runtimes for AI and Automation.</strong>
+  <strong>Building the impossible, faster than you think is possible.</strong>
 </p>
 
 ---
 
-I build systems that solve problems others consider impossible. My primary focus is **[omnipkg](https://github.com/1minds3t/omnipkg)**, a Universal Compatibility Engine designed to eliminate dependency and environment conflicts for any programming language. It is the foundational runtime for a new generation of self-healing, multi-dimensional AI and automation workflows.
+### About Me
 
-My philosophy is that the future of software isn't just about writing code, but about creating systems that can **understand, manage, and heal themselves.**
+I started my public coding journey on August 4th, 2025. In the short time since, I've gone from my first commit to building a Universal Runtime Engine that solves dependency conflicts across multiple Python versions and, soon, across all programming languages.
+
+My focus is **[omnipkg](https://github.com/1minds3t/omnipkg)**, but my philosophy is bigger: I believe in **hyper-velocity execution**. The barriers in software development are not fixed; they are waiting for someone with enough focus and drive to break them.
+
+What others see as a decade-long problem, I see as a weekend challenge.
 
 ---
 
-### **My GitHub Statistics**
+### **My Velocity, In Real-Time**
 
 <!-- These images are generated and updated daily by a custom GitHub Action -->
 <p align="center">
@@ -36,5 +37,7 @@ My philosophy is that the future of software isn't just about writing code, but 
 
 ---
 
--   🐍 **PyPI:** [pypi.org/project/omnipkg/](https://pypi.org/project/omnipkg/)
--   📫 **Contact:** 1minds3t@proton.me
+-   **My Masterpiece:** [omnipkg - The Universal Runtime Engine](https://github.com/1minds3t/omnipkg)
+-   **My Stats Engine:** [github-stats - The tool that generates the stats you see above.](https://github.com/1minds3t/github_stats)
+-   **PyPI:** [pypi.org/project/omnipkg/](https://pypi.org/project/omnipkg/)
+-   **Contact:** 1minds3t@proton.me
