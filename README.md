@@ -30,7 +30,7 @@ I started my public coding journey on August 4th, 2025. In the short time since,
 
 My focus is **[omnipkg](https://github.com/1minds3t/omnipkg)**, but my philosophy is bigger: I believe in **hyper-velocity execution**. The barriers in software development are not fixed; they are waiting for someone with enough focus and drive to break them.
 
-What others see as a decade-long problem, I see as a weekend challenge.
+What others see as a decade-long problem, I see as a weekend project.
 
 ---
 
