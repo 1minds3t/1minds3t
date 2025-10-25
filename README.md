@@ -19,7 +19,7 @@
 <h1 align="center">1minds3t</h1>
 
 <p align="center">
-  <strong>I solved Python's dependency hell with omnipkg.</strong>
+  <strong>Nothing is impossible.</strong>
 </p>
 
 ---
