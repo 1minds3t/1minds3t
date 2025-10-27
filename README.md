@@ -19,7 +19,7 @@
 <h1 align="center">1minds3t</h1>
 
 <p align="center">
-  <strong>Nothing is impossible.</strong>
+  <strong>Impossible is nothing.</strong>
 </p>
 
 ---
